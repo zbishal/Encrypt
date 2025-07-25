@@ -1,4 +1,4 @@
-# Encryptor
+# Encryptor - Simple Encrpytor App
 
 Created by Bishal | Version 2025.v1
 
